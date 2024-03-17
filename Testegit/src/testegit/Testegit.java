@@ -18,6 +18,7 @@ public class Testegit {
        int teste = 10;   
        for (int n = 0; n<=teste; n++){
            System.out.println("- "+n);
+           //aaaa
        }     
     }  
 }
